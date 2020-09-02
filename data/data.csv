@@ -1,0 +1,6 @@
+id,name,url,tag
+1,duckduckgo,https://ddg.gg,"['tag1', 'tag2']"
+2,firefox,https://firefox.com,"['tag1', 'tag2']"
+3,mozilla,https://mozilla.org,"['tag1', 'tag2']"
+4,brave,https://brave.com,"['tag1', 'tag2']"
+5,protonmail,https://protonmail.com,"['tag1', 'tag2']"

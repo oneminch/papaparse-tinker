@@ -1,0 +1,21 @@
+{
+  "name": "csv-exp",
+  "version": "1.0.0",
+  "description": "Experimenting with Papa Parse and Grid.js to render a CSV file content.",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "gridjs": "1.6.3",
+    "papaparse": "5.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": [
+    "plugin"
+  ]
+}
