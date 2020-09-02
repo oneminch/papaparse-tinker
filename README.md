@@ -1,2 +1,2 @@
 # papaparse-tinker
-Created with CodeSandbox
+ Experimenting with the Papa Parse package to access CSV files 
